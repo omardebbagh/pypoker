@@ -12,7 +12,7 @@ This project aims also to explore a bot development using CFR and MCCFR algorith
 - A Notebook was created showing the basic usage of the tools 
 
 ## To Do
-- Look for hands data and past plays to try to find some trends 
+- Analyze historical hand data and past plays to identify patterns and trends that could improve strategic decision-making.
 - Finish building a poker bot using Counterfactual Regret Minimization (CFR) and Monte Carlo CFR (MCCFR) for Kuhn Poker and Limit Hold'em.
 
 ## Dependencies 
